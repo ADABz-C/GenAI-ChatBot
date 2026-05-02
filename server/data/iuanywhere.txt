@@ -1,0 +1,1 @@
+IUanyWare is a client virtualization service available to Indiana University students, faculty, and staff. With IUanyWare, you can use a web browser or mobile app to run certain IU-licensed software applications without having to install them on your computer or mobile device. To determine whether specific software is available, search for the title within IUanyWare.

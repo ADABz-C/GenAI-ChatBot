@@ -1,0 +1,1 @@
+Open a PDF file in Acrobat. Click on the “Export PDF” tool in the right pane. Choose Microsoft Word as your export format, and then choose “Word Document.” Click “Export.” If your PDF contains scanned text, the Acrobat Word converter will run text recognition automatically. Name your converted file, choose DOC or DOCX file format, and click the “Save” button.

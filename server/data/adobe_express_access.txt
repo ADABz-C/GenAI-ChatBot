@@ -1,0 +1,1 @@
+IU provides Adobe Express access to students, faculty, and staff through its Creative Cloud license. To access Adobe Express, go to the website, select Go to Adobe Express, and log in using your IU email and passphrase with Duo authentication.

@@ -1,0 +1,1 @@
+To install Creative Cloud, go to Adobe at IU and select Download Creative Cloud. Log in with your IU email address and passphrase. Select Install Creative Cloud Desktop from your Adobe account page. Download and run the installer file. Once installed, open the Creative Cloud desktop application and install desired apps such as Photoshop or Illustrator.

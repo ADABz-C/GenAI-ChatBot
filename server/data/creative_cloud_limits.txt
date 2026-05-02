@@ -1,0 +1,1 @@
+IU's Adobe Creative Cloud license allows two concurrent active instances. You can install Creative Cloud on multiple computers, but you can only be logged in on two at a time. If you log into a third, you must deactivate another session.
