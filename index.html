@@ -2,36 +2,42 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>IU Tech Concierge</title>
+    <title>Your Tech Mentor</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-<div class="chat-header">
-    IU Tech Concierge
-</div>
-<div class="chat-container">
 
-    <!-- Header -->
-    <div class="chat-header">
-        <!-- Replace with your IU logo -->
-        <img src="" alt="IU Logo" class="logo">
-    </div>
+<div class="app">
 
-    <!-- Chat Box -->
-    <div class="chat-box" id="chatBox">
-        <div class="message bot">
-            <p>Hello! I'm your IU Tech Concierge. How can I help?</p>
+    <!-- HEADER -->
+    <div class="header">
+        <div class="icon">[←]</div>
+
+        <div class="header-text">
+            <div class="title">Your Tech Mentor</div>
+            <div class="status">
+                <span class="dot"></span> Online
+            </div>
         </div>
+
+        <div class="icon">[X]</div>
     </div>
 
-    <!-- Input Area -->
-    <div class="chat-input">
-        <input type="text" id="userInput" placeholder="Ask something...">
-        
-        <!-- Replace with your send icon -->
-        <button id="sendBtn">
-            <img src="" alt="Send">
-        </button>
+    <!-- CHAT -->
+    <div id="chat-box" class="chat-box"></div>
+
+    <!-- SUGGESTIONS -->
+    <div id="suggestions" class="suggestions">
+        <button>Video Editing</button>
+        <button>Presentation</button>
+        <button>Convert Word to PDF</button>
+        <button>Go to IU Knowledge Base</button>
+    </div>
+
+    <!-- INPUT -->
+    <div class="input-area">
+        <input id="user-input" placeholder="Ask about IU software..." />
+        <button onclick="sendMessage()">Send</button>
     </div>
 
 </div>
