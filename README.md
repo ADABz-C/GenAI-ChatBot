@@ -29,14 +29,7 @@ The system retrieves relevant IU documentation and combines it with an AI model 
 ---
 
 ## Technical Architecture
-Frontend (HTML/CSS/JS)
-↓
-Node.js Backend (Express)
-↓
-RAG System (Embeddings + Cosine Similarity)
-↓
-Ollama (Local LLM)
-
+Frontend (HTML/CSS/JS) -> Node.js Backend (Express) -> RAG System (Embeddings + Cosine Similarity) -> Ollama (Local LLM)
 
 ---
 
