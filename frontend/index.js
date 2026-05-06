@@ -42,7 +42,7 @@ async function sendMessage() {
 
     chatBox.appendChild(botMsg);
 
-    const res = await fetch("https://slip-toys-shell-assumptions.trycloudflare.com", {
+    const res = await fetch("https://slip-toys-shell-assumptions.trycloudflare.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text })
