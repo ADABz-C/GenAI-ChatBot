@@ -42,7 +42,7 @@ async function sendMessage() {
 
     chatBox.appendChild(botMsg);
 
-    const res = await fetch("http://localhost:3000/chat", {
+    const res = await fetch("https://genai-chatbot.adabanyadavid.workers.dev/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text })
